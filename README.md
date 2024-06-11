@@ -5,6 +5,7 @@ NOTE: File directory will need to be reconstructed according to the code to run.
 ## Setting Up
 
 This project was made following the class tutorial, with setup instructions here: https://github.com/SNHU-CS/CS-330
+
 It depends upon several OpenGL libraries and was made in Visual Studio 2022.
 
 ### Class Refelection
