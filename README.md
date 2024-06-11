@@ -1,5 +1,6 @@
 # CS330_FinalProject
 Simple OpenGL 3D scene with lighting and textures.
+
 NOTE: File directory will need to be reconstructed according to the code to run. An unsolved error is causing the zipped folders to turn out a whopping 42 MB, which will not upload to github, despite the original files being under 10MB total.
 
 ## Setting Up
@@ -8,7 +9,7 @@ This project was made following the class tutorial, with setup instructions here
 
 It depends upon several OpenGL libraries and was made in Visual Studio 2022.
 
-### Class Refelection
+### Class Reflection
 
 What new design skills has your work on the project helped you to craft?
 
