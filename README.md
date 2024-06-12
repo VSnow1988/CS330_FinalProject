@@ -7,7 +7,9 @@ NOTE: File directory will need to be reconstructed according to the code to run.
 
 This project was made following the class tutorial, with setup instructions here: https://github.com/SNHU-CS/CS-330
 
-It depends upon several OpenGL libraries and was made in Visual Studio 2022.
+It depends upon several OpenGL libraries and was made in Visual Studio 2022. The files can be placed in the main directory after setting up a project according to the directions in the linked repo above. Some path and reference names may need to be changed.
+
+Images are not licensed to be used for any commercial purposes.
 
 ### Class Reflection
 
